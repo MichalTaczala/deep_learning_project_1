@@ -12,6 +12,8 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9227226/
 
 https://www.kaggle.com/code/sadiakhanam7/cinic-10-transformer-background
 
+https://github.com/geifmany/cifar-vgg?tab=readme-ov-file   $Weights for cifar-10
+
 
 # VENV ACTIVATION
 Navigate to the project directory and create a virtual environment: python -m venv <env_name> Note: On some systems, you might need to use python3 instead of python
